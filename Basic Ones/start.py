@@ -5,4 +5,5 @@ def until(num):
         i -= 1
 
 
-print(until(10))
+# print(until(10))
+print(until(6))
